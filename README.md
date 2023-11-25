@@ -14,3 +14,4 @@ for django requirements
     pytz==2022.7.1
     sqlparse==0.4.3
     tzdata==2022.7
+# Digital-Market
